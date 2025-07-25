@@ -34,7 +34,7 @@ Acessibilidade básica e complexa
 
 
 
-<div style="display: inline_block;margin-bottom: 20px"><br>
+<div style="display: inline_block; margin-bottom: 10px;"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -47,7 +47,7 @@ Acessibilidade básica e complexa
 
 </div>
   
- 
+ <br>
 <div> 
 
   <a href = "mailto:ricardoduartedonascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
