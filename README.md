@@ -1,4 +1,4 @@
-##👋 Olá, me chamo Ricardo!
+<h1  style="font-size: 1.5rem; font-weight: 700;" >  👋 Olá, me chamo Ricardo!  </h1>
 
 Sou estudante de Desenvolvimento de Sistemas na EEEP Francisca Neilyta. Possuo experiencia de mercado, trabalhando em projetos reais. Possuo nivel de Ingles C1 e disponibilidade a aprender oque for necessario!
 
