@@ -1,4 +1,5 @@
 ##👋 Olá, me chamo Ricardo!
+
 Sou estudante de Desenvolvimento de Sistemas na EEEP Francisca Neilyta. Possuo experiencia de mercado, trabalhando em projetos reais. Possuo nivel de Ingles C1 e disponibilidade a aprender oque for necessario!
 
 🎯 Objetivo
