@@ -26,6 +26,14 @@ Navegação intuitiva
 Acessibilidade básica e complexa
 
 
+
+
+  ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo&show_icons=true&theme=transparent)
+
+
+
+
+
 <div style="display: inline_block;margin-bottom: 20px"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -39,7 +47,6 @@ Acessibilidade básica e complexa
 
 </div>
   
-  ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo&show_icons=true&theme=transparent)
  
 <div> 
 
