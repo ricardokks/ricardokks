@@ -5,6 +5,7 @@ Sou estudante de Desenvolvimento de Sistemas na EEEP Francisca Neilyta. Possuo e
 Atuar como Desenvolvedor Frontend e UX Designer, entregando interfaces modernas, funcionais e com foco em performance e acessibilidade.
 
 🧠 Conhecimentos Técnicos
+
 Linguagens:
 C++, JavaScript, TypeScript
 
