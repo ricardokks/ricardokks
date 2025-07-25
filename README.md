@@ -22,12 +22,17 @@ Componentização, consumo de APIs, versionamento com Git, deploy com Vercel e i
 
 <h2 style="font-size: 1.25rem; font-weight: 600;">💡 UX Design</h2>
 <p>
-Possuo uma base sólida em UX Design, com foco em:
+Possuo uma base sólida em UX Design e Design Digital, com experiencia em:
 <ul>
-  <li>Arquitetura de informação</li>
-  <li>Hierarquia visual</li>
-  <li>Navegação intuitiva</li>
-  <li>Acessibilidade básica e complexa</li>
+  <li>Figma</li>
+  <li>Ilustrator</li>
+  <li>Inkscape</li>
+  <li>Photoshop</li>
+  <li>Krita</li>
+  <li>Davinci Resolve</li>
+
+
+
 </ul>
 </p>
 
